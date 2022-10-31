@@ -1,0 +1,90 @@
+/*Style */
+body {
+    font: 10px/30px arial, sans-serif;
+    background-color: #000000;
+    color: #fcfcfc;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(136, 136, 136);
+    transition: all .2s ease;
+}
+
+.header {
+    padding: 15px;
+    padding-bottom: 15px;
+   
+}
+
+.header ul {
+    display: flex;
+    justify-content: center;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 30px;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgb(255, 251, 0);
+    padding: 20px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.header a:hover {
+    color: rgb(0, 191, 255);
+}
+
+
+.hero {
+    height: 700px;
+    background-image: url("./TIT09141-04.jpg");
+    background-size: cover; 
+    background-position: 0px -10px;
+    border-top: 5px solid rgb(0, 191, 255);
+    border-bottom: 5px solid rgb(255, 251, 0);
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.content .About {
+    font-size: 19px;
+    margin-top: -10px;
+}
+
+.content h3 {
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#personal {}
+html{
+    scroll-behavior: smooth;
+}
+
+#personal {}
+#personal {}
+#personal {}
+#personal {}
+#personal {}
